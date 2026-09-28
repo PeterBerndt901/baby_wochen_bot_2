@@ -4,9 +4,9 @@
 
 ## Wer ist verantwortlich?
 
-[Vor- und Nachname]
-[Anschrift]
-[E-Mail-Adresse]
+[Per-Olaf Walter]
+[Telemannstraße 24]
+[per.olaf.walter@╚gmail.com]
 
 ## Worum geht es?
 
@@ -38,6 +38,9 @@ Bis ihr sie mit /delete löscht. Spätestens 30 Tage nach der letzten Wochennach
 
 ## Eure Rechte
 
-Ihr könnt jederzeit Auskunft über eure Daten verlangen, sie berichtigen (/change) oder löschen lassen (/delete) und eure Einwilligung widerrufen, ohne dass die bisherige Verarbeitung dadurch rechtswidrig wird. Außerdem habt ihr das Recht, euch bei einer Datenschutz-Aufsichtsbehörde zu beschweren, zum Beispiel bei der für den Wohnsitz des Verantwortlichen zuständigen Landesbehörde [Name und Anschrift ergänzen].
+Ihr könnt jederzeit Auskunft über eure Daten verlangen, sie berichtigen (/change) oder löschen lassen (/delete) und eure Einwilligung widerrufen, ohne dass die bisherige Verarbeitung dadurch rechtswidrig wird. Außerdem habt ihr das Recht, euch bei einer Datenschutz-Aufsichtsbehörde zu beschweren, zum Beispiel bei der für den Wohnsitz des Verantwortlichen zuständigen Landesbehörde:
+Der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit
+Ludwig-Erhard-Str. 22
+20459 Hamburg
 
-Stand: [Datum]
+Stand: [28.09.2026]
