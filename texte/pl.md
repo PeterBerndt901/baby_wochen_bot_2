@@ -71,6 +71,17 @@ sprache_gewechselt: Językiem jest teraz polski.
 unbekannt: Jestem botem i niestety nie mogę odpowiadać na wiadomości. Pod /help zobaczycie, co potrafię.
 abschluss: Towarzyszenie przez pierwszy rok życia dobiegło końca. Dziękuję, że byliście ze mną!
 
+## Einstieg
+
+**Dołączacie trochę później.** Dlatego tutaj krótko najważniejsze informacje z pierwszych tygodni, które obowiązują przez cały pierwszy rok:
+
+• **Bezpieczny sen:** na plecach, w śpiworku, na twardym materacu bez poduszek i przytulanek, bez dymu tytoniowego, nie za ciepło (16–18 °C), dziecko w sypialni rodziców. Nie zasypiajcie razem z dzieckiem na kanapie ani w fotelu (dobrze udokumentowane). Co do własnego łóżeczka, łóżeczka dostawnego czy wspólnego łóżka specjaliści nie są zgodni. Wspólne spanie jest jednak wyraźnie bardziej niebezpieczne po paleniu, alkoholu, narkotykach lub lekach wywołujących senność oraz u wcześniaków (dobrze udokumentowane).
+• **Nigdy nie potrząsajcie dzieckiem.** Jeśli jesteście u kresu sił: połóżcie dziecko bezpiecznie do łóżeczka, wyjdźcie na chwilę, zadzwońcie do kogoś. Wsparcie oferuje też bezpłatny telefon dla rodziców Elterntelefon pod numerem 0800 111 0 550 (po niemiecku).
+• **Kolor stolca:** Bardzo jasny, gliniasty lub szarobiały stolec może wskazywać na rzadką, ale pilną chorobę dróg żółciowych. Porównajcie go z kartą kolorów stolca w żółtej książeczce i szybko idźcie do pediatry.
+• **A wy?** Jeśli obniżony nastrój trwa dłużej niż około dwa tygodnie, porozmawiajcie z położną, lekarzem rodzinnym lub ginekologiem. Depresja po porodzie zdarza się często i dobrze się ją leczy.
+
+Terminy i szczepienia, które są teraz nadal aktualne, znajdziecie w następnej wiadomości.
+
 ## Woche 0 · Przybycie na świat
 
 Pierwszy tydzień życia to przede wszystkim przestawianie się: oddychanie, krążenie, trawienie i regulacja temperatury po raz pierwszy działają zupełnie bez łożyska. To normalne, że noworodki w pierwszych dniach nieco tracą na wadze. Zwykle wracają do masy urodzeniowej po 10–14 dniach, a położna ma to na oku.
@@ -1088,67 +1099,76 @@ To była ostatnia cotygodniowa wiadomość. Dziękuję, że mogłem jako bot tow
 • **Czy coś kupować?** Na urodziny lepiej mało prezentów, a resztę wyciągać stopniowo później (wiedza z doświadczenia, słabo zbadana). Książki i wspólny czas z babcią i dziadkiem to często najlepsze prezenty.
 • **Jak reagować:** Świętujcie krótko i w małym gronie. Zbyt duże zamieszanie przytłacza wiele roczniaków.
 
-## Termine Woche 0
+## Termine Woche 0 · bis Woche 1
 
 • **U2** (od 3. do 10. dnia życia), często jeszcze w szpitalu. Dziecko dostaje wtedy drugą dawkę witaminy K. Badanie przesiewowe z krwi noworodka i przesiewowe badanie słuchu wykonuje się zwykle w pierwszych dniach życia. Zapytajcie, jeśli czegoś brakuje.
+
+## Termine Woche 0 · bis Woche 52
+
 • **Witamina D:** Codzienne podawanie witaminy D (zwykle w tabletce, często razem z fluorem) zaczyna się w pierwszym tygodniu życia i trwa do drugiego przeżytego wczesnego lata. Jaki preparat, ustalcie z gabinetem pediatrycznym lub położną.
-• **Ochrona przed RSV:** Jeśli dziecko urodzi się w sezonie RSV (zwykle od października do marca), STIKO (niemiecka Stała Komisja ds. Szczepień) zaleca przeciwciało (nirsewimab) możliwie szybko po porodzie, najlepiej przed wypisem ze szpitala lub podczas U2.
+
+## Termine Woche 0 · bis Woche 8
+
 • Jeśli jeszcze tego nie zrobiliście: poszukajcie gabinetu pediatrycznego. Wiele z nich przyjmuje nowych pacjentów tylko w ograniczonym zakresie.
 
-## Termine Woche 1
+## Termine Woche 1 · bis Woche 12
 
 • **Formalności z terminami:** Elterngeld (zasiłek rodzicielski) jest wypłacany wstecz tylko za ostatnie trzy miesiące życia przed miesiącem złożenia wniosku, Kindergeld (zasiłek na dziecko) za sześć miesięcy. Nie zwlekajcie więc zbyt długo. Zwykle potrzebny jest do tego akt urodzenia z urzędu stanu cywilnego (Standesamt).
 • Dziecko trzeba zgłosić do kasy chorych (ubezpieczenie rodzinne, Familienversicherung).
 
-## Termine Woche 2
+## Termine Woche 2 · bis Woche 4
 
 • **Umówcie U3:** Badanie U3 odbywa się w 4.–5. tygodniu życia. Obejmuje USG bioder, trzecią dawkę witaminy K i rozmowę o zbliżających się szczepieniach.
 
-## Termine Woche 5
+## Termine Woche 5 · bis Woche 11
 
 • **Szczepienie przeciw rotawirusom:** Ta doustna szczepionka jest możliwa od 6. tygodnia życia (2 lub 3 dawki, zależnie od preparatu). Zacznijcie jak najwcześniej, bo cykl szczepień musi zostać zakończony do określonego wieku. Najlepiej umówcie termin już teraz.
 
-## Termine Woche 8
+## Termine Woche 8 · bis Woche 16
 
 • **Szczepienia w wieku 2 miesięcy** (STIKO): szczepionka 6 w 1 (tężec, błonica, krztusiec, Hib, polio, WZW typu B), pneumokoki i meningokoki typu B, do tego ewentualnie kolejna dawka przeciw rotawirusom.
 • **U4** (3.–4. miesiąc życia). Często można je połączyć z terminem szczepienia.
 
-## Termine Woche 12
+## Termine Woche 12 · bis Woche 16 · nur Frühgeborene
 
-• Tylko jeśli dziecko urodziło się przedwcześnie: STIKO zaleca wcześniakom w wieku 3 miesięcy dodatkową dawkę szczepionki 6 w 1 i przeciw pneumokokom.
+• Ponieważ wasze dziecko urodziło się przedwcześnie: STIKO zaleca wcześniakom w wieku 3 miesięcy dodatkową dawkę szczepionki 6 w 1 i przeciw pneumokokom.
 
-## Termine Woche 17
+## Termine Woche 17 · bis Woche 21
 
 • **Szczepienia w wieku 4 miesięcy:** po drugiej dawce szczepionki 6 w 1, przeciw pneumokokom i przeciw meningokokom typu B.
 
-## Termine Woche 21
+## Termine Woche 21 · bis Woche 30
 
 • **Umówcie U5** (6.–7. miesiąc życia). Tematami są między innymi ruch, wzrok, odżywianie i pielęgnacja zębów.
 • **Wczesne badania stomatologiczne:** Kasy chorych pokrywają badania u dentysty od 6. miesiąca życia.
 
-## Termine Woche 26
+## Termine Woche 26 · bis Woche 52
 
 • **Pierwszy ząbek?** U niektórych dzieci teraz, u innych dopiero za kilka miesięcy. Gdy tylko się pojawi: zacznijcie myć zęby i wyjaśnijcie kwestię fluoru. Albo dalej tabletki z witaminą D **i** fluorem, wtedy mycie bez pasty z fluorem. Albo witamina D bez fluoru, wtedy mycie ilością pasty dla dzieci wielkości ziarenka ryżu z 1000 ppm fluoru. Nie łączcie obu. Tak od 2021 roku wspólnie zalecają pediatrzy i dentyści w Niemczech.
 
-## Termine Woche 38
+## Termine Woche 38 · bis Woche 52
 
 • **Umówcie U6** (10.–12. miesiąc życia).
 
-## Termine Woche 47
+## Termine Woche 47 · bis Woche 52
 
 • **Szczepienia w wieku 11 miesięcy:** trzecia dawka szczepionki 6 w 1 i przeciw pneumokokom oraz pierwsza dawka przeciw odrze, śwince, różyczce i ospie wietrznej. Szczepienia można rozłożyć na kilka wizyt. Jeśli dziecko wcześniej pójdzie do żłobka, szczepienie przeciw odrze jest możliwe już od 9 miesięcy. W Niemczech ochrona przed odrą jest w żłobku wymagana prawem.
 
-## Termine Woche 52
+## Termine Woche 52 · bis Woche 52
 
 • **Meningokoki typu B:** trzecia dawka w wieku 12 miesięcy. W wieku 15 miesięcy następuje druga dawka przeciw odrze, śwince, różyczce i ospie wietrznej.
 • **Witamina D** dalej do drugiego przeżytego wczesnego lata.
 • **Mycie zębów:** Od 12 miesięcy wszystkim dzieciom zaleca się dwa razy dziennie ilość pasty z 1000 ppm fluoru wielkości ziarenka ryżu. Tabletek z fluorem wtedy się już nie podaje.
 • Następne badanie profilaktyczne, **U7**, odbywa się w wieku 21–24 miesięcy.
 
-## Saison rsv · Monate 9, 10 · bis Woche 30
+## Saison rsv · Monate 9, 10 · bis Woche 30 · geboren Monate 4, 5, 6, 7, 8, 9
 
-**Zbliża się sezon RSV.** STIKO zaleca, aby niemowlęta urodzone między kwietniem a wrześniem jesienią, przed swoim pierwszym sezonem RSV, jednorazowo otrzymały przeciwciało (nirsewimab). U małych niemowląt RSV jest jedną z najczęstszych przyczyn pobytów w szpitalu z powodu infekcji dróg oddechowych. Zapytajcie w gabinecie pediatrycznym, jeśli ten temat jeszcze się nie pojawił. Tam też wyjaśnią, czy jest to u was potrzebne.
+**Zbliża się sezon RSV.** Wasze dziecko urodziło się między kwietniem a wrześniem, więc będzie to jego pierwszy sezon RSV. Dla takich niemowląt STIKO zaleca jesienią jednorazowe podanie przeciwciała (nirsewimab), najlepiej zanim sezon na dobre się rozpocznie. U małych niemowląt RSV jest jedną z najczęstszych przyczyn pobytów w szpitalu z powodu infekcji dróg oddechowych. Zapytajcie w gabinecie pediatrycznym, jeśli ten temat jeszcze się nie pojawił. Tam też wyjaśnią, czy jest to u was potrzebne.
 
 ## Saison sommer · Monate 5, 6, 7, 8 · bis Woche 52
 
 **Lato z niemowlęciem:** Niemowlęta w pierwszym roku życia nie powinny przebywać na bezpośrednim słońcu. Lepsze są cień, lekkie, zakrywające ubranie i kapelusik. W upały częściej karmcie piersią lub podawajcie butelkę, a przy posiłkach uzupełniających także wodę. Nigdy nie przykrywajcie wózka chustą, bo pod nią gromadzi się ciepło. I nigdy nie zostawiajcie dziecka samego w samochodzie.
+
+## Saison rsv-geburt · Monate 10, 11, 12, 1, 2, 3 · bis Woche 26 · geboren Monate 10, 11, 12, 1, 2, 3
+
+**Ochrona przed RSV:** Wasze dziecko urodziło się w sezonie RSV (zwykle od października do marca). Dla takich niemowląt STIKO zaleca przeciwciało (nirsewimab) możliwie szybko po porodzie, najlepiej przed wypisem ze szpitala lub podczas U2. Jeśli jeszcze się to nie stało, zapytajcie o to jak najszybciej w gabinecie pediatrycznym.

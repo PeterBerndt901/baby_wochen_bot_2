@@ -5,8 +5,10 @@ Diese Datei ist die Textquelle des Bots. Sie kann direkt auf GitHub im Browser b
 Regeln für Änderungen:
 - Jeder Abschnitt beginnt mit einer Überschrift mit zwei Rauten (`## `). Die Form der Überschrift bitte nicht ändern.
 - `## Woche N · Titel` = Entwicklungstext für Woche N (bei Frühchen: korrigiertes Alter).
-- `## Termine Woche N` = Termine und Gesundheitshinweise für Woche N (immer nach echtem Alter).
+- `## Termine Woche N · bis Woche M` = Termine und Gesundheitshinweise ab Woche N (immer nach echtem Alter). Wer später einsteigt oder pausiert hat, bekommt den Hinweis bis Woche M nachgeliefert. Ohne „bis Woche“ gilt er 2 Wochen. Mit `· nur Frühgeborene` am Ende geht er nur an Familien, die einen errechneten Termin angegeben haben. Pro Woche sind mehrere Blöcke erlaubt.
+- `## Einstieg` = das Wichtigste aus den ersten Wochen; geht einmalig an Familien, die sich erst nach der ersten Lebenswoche anmelden.
 - `## Saison ID · Monate X, Y · bis Woche N` = jahreszeitlicher Hinweis, einmal pro Jahr, solange das Baby höchstens N Wochen alt ist.
+  Optional mit `· geboren Monate A, B, …` am Ende: dann nur für Babys, die in diesen Monaten geboren wurden, und nur einmal pro Kind.
 - `**fett**` wird in Telegram fett dargestellt. Andere Formatierungen werden als normaler Text gezeigt.
 - Alles oberhalb der ersten Überschrift (dieser Absatz) wird ignoriert.
 - `## Oberfläche` enthält die kurzen Texte des Bots (Anmeldung, Knöpfe, Hilfe). Format: `schluessel: Text`. Die Schlüssel links vom Doppelpunkt nicht ändern, nur den Text rechts. `\n` erzeugt einen Zeilenumbruch, Platzhalter wie `{n}` oder `{url}` bitte stehen lassen.
@@ -80,6 +82,17 @@ abgebrochen: Alles bleibt, wie es war.
 sprache_gewechselt: Die Sprache ist jetzt Deutsch.
 unbekannt: Ich bin ein Bot und kann auf Nachrichten leider nicht antworten. Mit /help seht ihr, was ich kann.
 abschluss: Die Begleitung durch das erste Lebensjahr ist abgeschlossen. Danke, dass ihr dabei wart!
+
+## Einstieg
+
+**Ihr steigt nicht ganz am Anfang ein.** Deshalb hier kurz das Wichtigste aus den ersten Wochen, das fürs ganze erste Jahr gilt:
+
+• **Sicherer Schlaf:** Rückenlage, Schlafsack, feste Matratze ohne Kissen und Kuscheltiere, rauchfrei, nicht zu warm (16 bis 18 °C), Baby im Elternschlafzimmer. Nicht gemeinsam mit dem Baby auf Sofa oder Sessel einschlafen (gut belegt). Ob eigenes Bett, Beistellbett oder Familienbett, darüber sind sich Fachleute nicht einig. Deutlich gefährlicher ist gemeinsames Schlafen aber nach Rauchen, Alkohol, Drogen oder müde machenden Medikamenten und bei Frühgeborenen (gut belegt).
+• **Niemals schütteln.** Wenn ihr an eure Grenze kommt: Baby sicher ins Bett legen, kurz rausgehen, jemanden anrufen. Unterstützung gibt es auch beim kostenlosen Elterntelefon unter 0800 111 0 550.
+• **Stuhlfarbe:** Sehr heller, lehmfarbener oder grauweißer Stuhl kann auf eine seltene, aber eilige Erkrankung der Gallenwege hinweisen. Vergleicht mit der Stuhlkarte im gelben Heft und geht dann zeitnah zur Kinderärztin.
+• **Und ihr?** Hält eine gedrückte Stimmung länger als etwa zwei Wochen an, sprecht mit Hebamme, Hausärztin oder Gynäkologin. Eine Depression nach der Geburt ist häufig und gut behandelbar.
+
+Termine und Impfungen, die jetzt noch aktuell sind, stehen in der Nachricht gleich im Anschluss.
 
 ## Woche 0 · Ankommen
 
@@ -1098,67 +1111,76 @@ Das war die letzte Wochennachricht. Danke, dass ich euch durch das erste Jahr be
 • **Kaufen?** Zum Geburtstag lieber wenige Geschenke und die übrigen später nach und nach hervorholen (Erfahrungswissen, kaum untersucht). Bücher und gemeinsame Zeit mit Oma und Opa sind oft die besten Geschenke.
 • **Darauf eingehen:** Feiert kurz und in kleiner Runde. Zu viel Trubel überfordert viele Einjährige.
 
-## Termine Woche 0
+## Termine Woche 0 · bis Woche 1
 
 • **U2** (3. bis 10. Lebenstag), oft noch in der Klinik. Dabei gibt es die zweite Vitamin-K-Gabe. Neugeborenen-Blutscreening und Hörscreening werden meist in den ersten Lebenstagen gemacht. Fragt nach, falls etwas fehlt.
+
+## Termine Woche 0 · bis Woche 52
+
 • **Vitamin D:** Die tägliche Vitamin-D-Gabe (meist als Tablette, oft kombiniert mit Fluorid) beginnt in der ersten Lebenswoche und läuft bis zum zweiten erlebten Frühsommer. Welches Präparat passt, klärt ihr mit Kinderarztpraxis oder Hebamme.
-• **RSV-Schutz:** Wird euer Baby in der RSV-Saison geboren (meist Oktober bis März), empfiehlt die STIKO einen Antikörper (Nirsevimab) möglichst bald nach der Geburt, idealerweise vor der Entlassung oder bei der U2.
+
+## Termine Woche 0 · bis Woche 8
+
 • Falls noch nicht geschehen: Kinderarztpraxis suchen. Viele nehmen nur begrenzt neue Patienten auf.
 
-## Termine Woche 1
+## Termine Woche 1 · bis Woche 12
 
 • **Papierkram mit Fristen:** Elterngeld wird rückwirkend nur für die letzten drei Lebensmonate vor dem Antragsmonat gezahlt, Kindergeld für sechs Monate. Also nicht zu lange warten. Meist braucht ihr dafür die Geburtsurkunde vom Standesamt.
 • Euer Baby muss bei der Krankenkasse angemeldet werden (Familienversicherung).
 
-## Termine Woche 2
+## Termine Woche 2 · bis Woche 4
 
 • **U3 vereinbaren:** Die U3 findet in der 4. bis 5. Lebenswoche statt. Dazu gehören ein Ultraschall der Hüfte, die dritte Vitamin-K-Gabe und ein Gespräch über die anstehenden Impfungen.
 
-## Termine Woche 5
+## Termine Woche 5 · bis Woche 11
 
 • **Rotavirus-Impfung:** Die Schluckimpfung ist ab dem Alter von 6 Wochen möglich (je nach Impfstoff 2 oder 3 Dosen). Startet möglichst früh, weil die Impfserie bis zu einem bestimmten Alter abgeschlossen sein muss. Am besten macht ihr jetzt einen Termin.
 
-## Termine Woche 8
+## Termine Woche 8 · bis Woche 16
 
 • **Impfungen mit 2 Monaten** (STIKO): Sechsfach-Impfung (Tetanus, Diphtherie, Keuchhusten, Hib, Kinderlähmung, Hepatitis B), Pneumokokken und Meningokokken B, dazu gegebenenfalls die nächste Rotavirus-Dosis.
 • **U4** (3. bis 4. Lebensmonat). Sie lässt sich oft mit einem Impftermin verbinden.
 
-## Termine Woche 12
+## Termine Woche 12 · bis Woche 16 · nur Frühgeborene
 
-• Nur falls euer Baby zu früh geboren wurde: Für Frühgeborene empfiehlt die STIKO mit 3 Monaten eine zusätzliche Dosis der Sechsfach- und der Pneumokokken-Impfung.
+• Weil euer Baby zu früh geboren wurde: Für Frühgeborene empfiehlt die STIKO mit 3 Monaten eine zusätzliche Dosis der Sechsfach- und der Pneumokokken-Impfung.
 
-## Termine Woche 17
+## Termine Woche 17 · bis Woche 21
 
 • **Impfungen mit 4 Monaten:** jeweils die zweite Dosis der Sechsfach-Impfung, der Pneumokokken- und der Meningokokken-B-Impfung.
 
-## Termine Woche 21
+## Termine Woche 21 · bis Woche 30
 
 • **U5 vereinbaren** (6. bis 7. Lebensmonat). Themen sind unter anderem Bewegung, Sehen, Ernährung und Zahnpflege.
 • **Zahnärztliche Früherkennung:** Die Krankenkassen zahlen Untersuchungen beim Zahnarzt ab dem 6. Lebensmonat.
 
-## Termine Woche 26
+## Termine Woche 26 · bis Woche 52
 
 • **Erster Zahn?** Bei manchen Babys jetzt, bei anderen erst in Monaten. Sobald er da ist: mit dem Zähneputzen beginnen und die Fluorid-Frage klären. Entweder weiter Tabletten mit Vitamin D **und** Fluorid, dann putzen ohne fluoridhaltige Zahnpasta. Oder Vitamin D ohne Fluorid, dann putzen mit einer reiskorngroßen Menge Kinderzahnpasta mit 1000 ppm Fluorid. Nicht beides kombinieren. So empfehlen es Kinder- und Zahnärzte seit 2021 gemeinsam.
 
-## Termine Woche 38
+## Termine Woche 38 · bis Woche 52
 
 • **U6 vereinbaren** (10. bis 12. Lebensmonat).
 
-## Termine Woche 47
+## Termine Woche 47 · bis Woche 52
 
 • **Impfungen mit 11 Monaten:** die dritte Dosis Sechsfach- und Pneumokokken-Impfung sowie die erste Dosis gegen Masern, Mumps, Röteln und Windpocken. Die Impfungen dürfen auf mehrere Termine verteilt werden. Kommt euer Kind früher in die Kita, ist die Masern-Impfung schon ab 9 Monaten möglich. Für die Kita ist ein Masernschutz gesetzlich vorgeschrieben.
 
-## Termine Woche 52
+## Termine Woche 52 · bis Woche 52
 
 • **Meningokokken B:** dritte Dosis mit 12 Monaten. Mit 15 Monaten folgt die zweite Dosis gegen Masern, Mumps, Röteln und Windpocken.
 • **Vitamin D** geht weiter bis zum zweiten erlebten Frühsommer.
 • **Zähneputzen:** Ab 12 Monaten wird für alle Kinder zweimal täglich eine reiskorngroße Menge Zahnpasta mit 1000 ppm Fluorid empfohlen. Fluoridtabletten gibt es dann nicht mehr.
 • Die nächste Vorsorge, die **U7**, ist mit 21 bis 24 Monaten.
 
-## Saison rsv · Monate 9, 10 · bis Woche 30
+## Saison rsv · Monate 9, 10 · bis Woche 30 · geboren Monate 4, 5, 6, 7, 8, 9
 
-**Die RSV-Saison steht bevor.** Die STIKO empfiehlt, dass Babys, die zwischen April und September geboren wurden, im Herbst vor ihrer ersten RSV-Saison einmalig einen Antikörper (Nirsevimab) bekommen. RSV ist bei jungen Säuglingen einer der häufigsten Gründe für Krankenhausaufenthalte wegen Atemwegsinfekten. Sprecht die Kinderarztpraxis an, falls das noch nicht Thema war. Sie klärt auch, ob es bei euch nötig ist.
+**Die RSV-Saison steht bevor.** Euer Baby wurde zwischen April und September geboren, jetzt steht also seine erste RSV-Saison an. Für diese Babys empfiehlt die STIKO, im Herbst einmalig einen Antikörper (Nirsevimab) zu geben, möglichst bevor die Saison richtig losgeht. RSV ist bei jungen Säuglingen einer der häufigsten Gründe für Krankenhausaufenthalte wegen Atemwegsinfekten. Sprecht die Kinderarztpraxis an, falls das noch nicht Thema war. Sie klärt auch, ob es bei euch nötig ist.
 
 ## Saison sommer · Monate 5, 6, 7, 8 · bis Woche 52
 
 **Sommer mit Baby:** Babys im ersten Lebensjahr sollten nicht in die direkte Sonne. Besser sind Schatten, leichte, bedeckende Kleidung und ein Sonnenhut. Bei Hitze öfter stillen oder das Fläschchen anbieten, mit Beikost auch Wasser. Deckt den Kinderwagen nie mit einem Tuch ab, darunter staut sich die Hitze. Und lasst euer Baby niemals allein im Auto.
+
+## Saison rsv-geburt · Monate 10, 11, 12, 1, 2, 3 · bis Woche 26 · geboren Monate 10, 11, 12, 1, 2, 3
+
+**RSV-Schutz:** Euer Baby wurde in der RSV-Saison geboren (meist Oktober bis März). Für diese Babys empfiehlt die STIKO einen Antikörper (Nirsevimab) möglichst bald nach der Geburt, idealerweise vor der Entlassung aus der Klinik oder bei der U2. Falls das noch nicht passiert ist, sprecht die Kinderarztpraxis zeitnah darauf an.

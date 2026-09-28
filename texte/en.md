@@ -71,6 +71,17 @@ sprache_gewechselt: The language is now English.
 unbekannt: I'm a bot and unfortunately can't reply to messages. Use /help to see what I can do.
 abschluss: Your baby's first year is complete, and so is this bot's journey with you. Thank you for being part of it!
 
+## Einstieg
+
+**You're joining a little later.** So here are the essentials from the first weeks that apply to the whole first year:
+
+• **Safe sleep:** on the back, in a sleeping bag, on a firm mattress without pillows or cuddly toys, smoke-free, not too warm (16 to 18 °C), baby in the parents' bedroom. Don't fall asleep together with your baby on a sofa or in an armchair (well established). Experts disagree about own cot, bedside crib or family bed. Sharing a bed is clearly more dangerous, however, after smoking, alcohol, drugs or sedating medication and with premature babies (well established).
+• **Never shake a baby.** If you're reaching your limit: put your baby safely in their bed, step outside briefly, call someone. Support is also available on the free parents' helpline Elterntelefon on 0800 111 0 550 (in German).
+• **Stool colour:** Very pale, clay-coloured or greyish-white stool can indicate a rare but urgent disease of the bile ducts. Compare it with the stool colour chart in the yellow booklet and see a paediatrician promptly.
+• **And you?** If a low mood lasts longer than about two weeks, talk to your midwife, GP or gynaecologist. Depression after birth is common and very treatable.
+
+Appointments and vaccinations that are still relevant now follow in the next message.
+
 ## Woche 0 · Arriving
 
 The first week of life is mostly about adjusting: breathing, circulation, digestion and temperature control are working without the placenta for the very first time. It is normal for newborns to lose some weight in the first few days. Most regain their birth weight within 10 to 14 days, and your midwife will keep an eye on it.
@@ -1088,67 +1099,76 @@ That was the last weekly message. Thank you for letting me accompany you through
 • **Worth buying?** For the birthday, better few presents, and bring the rest out gradually later (experience-based, barely studied). Books and shared time with Grandma and Grandpa are often the best presents.
 • **Tuning in:** Celebrate briefly and in a small group. Too much hustle and bustle overwhelms many one-year-olds.
 
-## Termine Woche 0
+## Termine Woche 0 · bis Woche 1
 
 • **U2** (3rd to 10th day of life), often still in hospital. Your baby receives the second dose of vitamin K. Newborn blood screening and hearing screening are usually done in the first days of life. Ask if anything is missing.
+
+## Termine Woche 0 · bis Woche 52
+
 • **Vitamin D:** The daily vitamin D dose (usually as a tablet, often combined with fluoride) starts in the first week of life and continues until the second early summer your baby experiences. Which product suits you is something to clarify with your paediatric practice or midwife.
-• **RSV protection:** If your baby is born during the RSV season (usually October to March), STIKO (the German Standing Committee on Vaccination) recommends an antibody (nirsevimab) as soon as possible after birth, ideally before discharge or at the U2.
+
+## Termine Woche 0 · bis Woche 8
+
 • If you haven't done so yet: look for a paediatric practice. Many only take on a limited number of new patients.
 
-## Termine Woche 1
+## Termine Woche 1 · bis Woche 12
 
 • **Paperwork with deadlines:** Elterngeld (parental allowance) is only paid retroactively for the last three months of life before the month of application, Kindergeld (child benefit) for six months. So don't wait too long. You usually need the birth certificate from the registry office (Standesamt) for this.
 • Your baby must be registered with your health insurance (family insurance, Familienversicherung).
 
-## Termine Woche 2
+## Termine Woche 2 · bis Woche 4
 
 • **Book the U3:** The U3 takes place in the 4th to 5th week of life. It includes a hip ultrasound, the third dose of vitamin K and a conversation about upcoming vaccinations.
 
-## Termine Woche 5
+## Termine Woche 5 · bis Woche 11
 
 • **Rotavirus vaccination:** This oral vaccine is possible from 6 weeks of age (2 or 3 doses depending on the vaccine). Start as early as possible, because the vaccination series must be completed by a certain age. It's best to book an appointment now.
 
-## Termine Woche 8
+## Termine Woche 8 · bis Woche 16
 
 • **Vaccinations at 2 months** (STIKO): the six-in-one vaccine (tetanus, diphtheria, whooping cough, Hib, polio, hepatitis B), pneumococcal and meningococcal B, plus the next rotavirus dose if applicable.
 • **U4** (3rd to 4th month of life). It can often be combined with a vaccination appointment.
 
-## Termine Woche 12
+## Termine Woche 12 · bis Woche 16 · nur Frühgeborene
 
-• Only if your baby was born prematurely: STIKO recommends an additional dose of the six-in-one and pneumococcal vaccines at 3 months for premature babies.
+• Because your baby was born prematurely: for premature babies, STIKO recommends an additional dose of the six-in-one and pneumococcal vaccines at 3 months.
 
-## Termine Woche 17
+## Termine Woche 17 · bis Woche 21
 
 • **Vaccinations at 4 months:** the second dose each of the six-in-one, pneumococcal and meningococcal B vaccines.
 
-## Termine Woche 21
+## Termine Woche 21 · bis Woche 30
 
 • **Book the U5** (6th to 7th month of life). Topics include movement, vision, nutrition and dental care.
 • **Early dental check-ups:** Health insurance covers check-ups at the dentist from the 6th month of life.
 
-## Termine Woche 26
+## Termine Woche 26 · bis Woche 52
 
 • **First tooth?** For some babies now, for others only in months. As soon as it's there: start brushing and clarify the fluoride question. Either continue with tablets containing vitamin D **and** fluoride, then brush without fluoride toothpaste. Or vitamin D without fluoride, then brush with a rice-grain-sized amount of children's toothpaste with 1000 ppm fluoride. Don't combine both. This is the joint recommendation of paediatricians and dentists in Germany since 2021.
 
-## Termine Woche 38
+## Termine Woche 38 · bis Woche 52
 
 • **Book the U6** (10th to 12th month of life).
 
-## Termine Woche 47
+## Termine Woche 47 · bis Woche 52
 
 • **Vaccinations at 11 months:** the third dose of the six-in-one and pneumococcal vaccines, and the first dose against measles, mumps, rubella and chickenpox. The vaccinations may be spread over several appointments. If your child starts daycare earlier, the measles vaccination is possible from 9 months. Proof of measles protection is required by law for daycare in Germany.
 
-## Termine Woche 52
+## Termine Woche 52 · bis Woche 52
 
 • **Meningococcal B:** third dose at 12 months. At 15 months, the second dose against measles, mumps, rubella and chickenpox follows.
 • **Vitamin D** continues until the second early summer your baby experiences.
 • **Brushing teeth:** From 12 months, a rice-grain-sized amount of toothpaste with 1000 ppm fluoride twice a day is recommended for all children. Fluoride tablets are then no longer given.
 • The next check-up, the **U7**, is at 21 to 24 months.
 
-## Saison rsv · Monate 9, 10 · bis Woche 30
+## Saison rsv · Monate 9, 10 · bis Woche 30 · geboren Monate 4, 5, 6, 7, 8, 9
 
-**RSV season is coming.** STIKO recommends that babies born between April and September receive a one-off antibody (nirsevimab) in autumn before their first RSV season. In young babies, RSV is one of the most common reasons for hospital admission due to respiratory infections. Ask your paediatric practice if this hasn't come up yet. They will also clarify whether it's needed in your case.
+**RSV season is coming.** Your baby was born between April and September, so this will be their first RSV season. For these babies, STIKO recommends a one-off antibody (nirsevimab) in autumn, ideally before the season really gets going. In young babies, RSV is one of the most common reasons for hospital admission due to respiratory infections. Ask your paediatric practice if this hasn't come up yet. They will also clarify whether it's needed in your case.
 
 ## Saison sommer · Monate 5, 6, 7, 8 · bis Woche 52
 
 **Summer with a baby:** Babies in their first year shouldn't be in direct sunlight. Shade, light covering clothing and a sun hat are better. In hot weather, breastfeed or offer the bottle more often, and water too once solids have started. Never cover the pram with a cloth, because heat builds up underneath. And never leave your baby alone in the car.
+
+## Saison rsv-geburt · Monate 10, 11, 12, 1, 2, 3 · bis Woche 26 · geboren Monate 10, 11, 12, 1, 2, 3
+
+**RSV protection:** Your baby was born during the RSV season (usually October to March). For these babies, STIKO recommends an antibody (nirsevimab) as soon as possible after birth, ideally before discharge from hospital or at the U2. If this hasn't happened yet, ask your paediatric practice about it promptly.
