@@ -1,12 +1,10 @@
 # Datenschutzhinweise zum Baby-Wochenbot
 
-> **Entwurf, keine Rechtsberatung.** Bitte vor einem öffentlichen Start von einer fachkundigen Stelle prüfen lassen und die Angaben in eckigen Klammern ausfüllen.
-
 ## Wer ist verantwortlich?
 
-[Per-Olaf Walter]
-[Telemannstraße 24]
-[per.olaf.walter@╚gmail.com]
+Per-Olaf Walter
+Telemannstraße 24
+per.olaf.walter[at]gmail.com
 
 ## Worum geht es?
 
